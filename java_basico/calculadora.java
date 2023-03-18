@@ -4,7 +4,7 @@ package java_basico;
 
 import java.util.Scanner;
 
-public class calculadora {
+public class Calculadora {
     public static void main(String[] args) {
         double numero1, numero2;
         double soma, subtracao, multiplicacao, divisao;
